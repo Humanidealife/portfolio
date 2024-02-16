@@ -48,6 +48,8 @@ Il s'agit d'une application à destination des parents qui ont des enfants, agé
 
 #### Démo
 
+<a href="https://www.parkbuddies.ch/" target="_blank">Le lien du site ParkBuddies</a>
+
 <a href="https://www.youtube.com/watch?v=a4fF_FOOBnE&ab_channel=LeWagon" target="_blank">Vidéo présentation du projet sur Youtube</a>
 
 #### Code Source
