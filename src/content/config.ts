@@ -8,8 +8,10 @@ export const collections = {
 			description: z.string(),
 			publishDate: z.coerce.date(),
 			tags: z.array(z.string()),
-			img: z.string(),
-			img_alt: z.string().optional(),
+			img1: z.string(),
+			img1_alt: z.string().optional(),
+      img2: z.string(),
+      img2_alt: z.string().optional(),
 		}),
 	}),
 };
