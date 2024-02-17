@@ -1,5 +1,5 @@
 ---
-title:  ParkBuddies
+title:  PoissonBnB
 publishDate: 2023-12-14 00:00:00
 img1: /assets/parkbuddies/demo1.jpg
 img1_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
