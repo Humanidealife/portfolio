@@ -5,7 +5,7 @@ img1: /assets/poissonbnb/pbnb1.jpg
 img1_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 img2: /assets/poissonbnb/pbnb2.jpg
 description: |
-  L'appli qui transforme les parcs en terrains d'amitié
+  Ici retrouvez tous les meilleurs poissons du Monde !
 tags:
   - Design
   - Développement
@@ -15,19 +15,18 @@ tags:
 
 #### Description
 
-Il s'agit d'une application à destination des parents qui ont des enfants, agés 1 à 10 ans. Son but est de répondre à une difficulté commune pour les parents : ne pas être seuls lorsqu'ils accompagnent leurs enfants au parc. Ils peuvent y rencontrer d'autres familles et se donner rendez-vous.
+Un site similaire à Airbnb, mais au lieu de proposer la location de logements, il offre la possibilité de louer des poissons, incluant une gamme variée de créatures marines, qu'elles proviennent du monde réel ou des dessins animés. L'objectif principal de cette plateforme est de permettre aux utilisateurs de découvrir et de louer des poissons disponibles à la location partout dans le monde, offrant ainsi une expérience unique et immersive pour tous les passionnés de vie aquatique.
 
 #### Fonctionnalités
 réservation calcul des jours
 ajouter des poissons acceptation et declinaison pour réservation
-possesseur
-locataire
-ajout map
 calcul du prix toatal
-- gestion des profil :
-- map intéractive : trouver facilement les parcs et les aires de jeux avec géolocalisation
+- gestion de deux statuts d'utilisateur : Loueur et Locataire
+- map intéractive : trouver facilement les poissons avec une visualisation géolocalisante.
+- gestion des dates : calcul des jours et prix
+- système de réservation :
 - salles de discussions : s'échanger dans la salle d'un parc ou discuter en privé
-- système de notation : faire des retour afin de créer un environment de sécutité et de confiance
+
 
 #### Technologies Utilisées
 
