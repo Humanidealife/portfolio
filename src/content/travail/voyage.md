@@ -3,7 +3,7 @@ title: Horizons voyage
 publishDate: 2023-03-02 00:00:00
 img1: /assets/voyage/voyage1.jpg
 img1_alt: Image page 1 site agence voyage
-img2: /assets/voyage2.jpg
+img2: /assets/voyage/voyage2.jpg
 img2_alt: Image page 2 site agence voyage
 description: |
   We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
