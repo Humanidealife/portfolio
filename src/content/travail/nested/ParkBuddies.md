@@ -36,12 +36,11 @@ Il s'agit d'une application à destination des parents qui ont des enfants, agé
 #### Rétrospectives
 
 - La simplicité de prise en main et l'aspect intuitif sont des premières préoccupation du disgn de cette application.
-
 - La réalisation des salles de discussion en groupe et en privé était un défi que vous avons surmonté.
 - L'architecture et l'interactivié des focnctionnélités de l'application nous permettent acquérir de solides compétences tant que su le front que sur le back.
 
 #### Contributions
-
+ Ce projet a été réalisé avec 
 - Jade GRIMM
 - Frédérique LAGUERRE
 - Clothilde DROUET
