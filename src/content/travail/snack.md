@@ -1,16 +1,16 @@
 ---
-title:  P3
+title:  Jeu Snack
 publishDate: 2023-12-14 00:00:00
 img1: /assets/parkbuddies/demo1.jpg
 img1_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 img2: /assets/parkbuddies/demo2.jpg
 description: |
-  L'appli qui transforme les parcs en terrains d'amitié
+  Jeu rétro Snack construit en Javascript
 tags:
   - Design
+  - Javascript
   - Développement
-  - Full-stack
-  - Branding
+  - Intéractivité
 ---
 
 #### Description
