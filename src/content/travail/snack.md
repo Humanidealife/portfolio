@@ -19,19 +19,26 @@ Jeu rétro contruit avec Javascript afin de maîtriser les aspect d'intéractivi
 
 #### Fonctionnalités
 
-- Conditions et règles du jeu : le serpent grandit quand il mange une pomme, le serpent meurt quand il cogne sur un mur ou sur son propre coprs
-- Paramètrages avancés : vitesse de départ, accélération conditionnelle, réinitialisation du jeu
+- Conditions et règles du jeu :
+  - le serpent grandit quand il mange une pomme
+  - le serpent meurt quand il cogne sur un mur ou sur son propre coprs
+- Paramètrages avancés :
+  - affichage automatique des points gagnés
+  - vitesse de départ, accélération conditionelle et automatisée
+  - réinitialisation du jeu
 - Intéractivité : contrôle du jeu avec le clavier
 
 #### Technologies Utilisées
 
 - **Javascript**
-- **Html**
+- **HTML**
 - **VSCode**
 
 #### Rétrospectives
 
-- La réalisation du jeu m'a permis d'assimiler les concepts tels : la réassignation de variable, la programmation orientée
+- La réalisation du jeu m'a permis d'assimiler les concepts tels :
+  - la réassignation de variable
+  - la programmation orientée
 - La construction du jeu me permettent acquérir de riches connaissances sur l'intéractivité du Javascript.
 
 
