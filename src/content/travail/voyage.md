@@ -1,15 +1,16 @@
 ---
 title: Horizons voyage
-publishDate: 2020-03-02 00:00:00
-img1: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
-img2: /assets/stock-2.jpg
+publishDate: 2023-03-02 00:00:00
+img1: /assets/voyage/voyage1.jpg
+img1_alt: Image page 1 site agence voyage
+img2: /assets/voyage2.jpg
+img2_alt: Image page 2 site agence voyage
 description: |
   We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
 tags:
   - Design
-  - Dev
-  - User Testing
+  - Html
+  - CSS
 ---
 
 ## Level-two heading

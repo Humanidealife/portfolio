@@ -32,7 +32,7 @@ Jeu rétro contruit avec Javascript afin de maîtriser les aspect d'intéractivi
 #### Rétrospectives
 
 - La réalisation du jeu m'a permis d'assimiler les concepts tels : la réassignation de variable, la programmation orientée
-- La construction du jeu me permettent acquérir de riches connaissances sur intéractivité du Javascript.
+- La construction du jeu me permettent acquérir de riches connaissances sur l'intéractivité du Javascript.
 
 
 #### Code Source
