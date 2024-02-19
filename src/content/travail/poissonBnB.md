@@ -19,11 +19,11 @@ Un site inspiré d'Airbnb, mais au lieu de proposer la location de logements, il
 
 #### Fonctionnalités
 
-- gestion de deux statuts d'utilisateur : Loueur et Locataire
-- système de réservation : validation et déclinaison de réservation
-- gestion des dates : calcul des jours de réservation et le prix total
-- gestion des poissons : formulaire d'ajout de nouveaux poissons
-- map intéractive : trouver facilement les poissons avec une visualisation géolocalisante
+- Gestion de deux statuts d'utilisateur : Loueur et Locataire
+- Système de réservation : validation et déclinaison de réservation
+- Gestion des dates : calcul des jours de réservation et le prix total
+- Gestion des poissons : formulaire d'ajout de nouveaux poissons
+- Map intéractive : trouver facilement les poissons avec une visualisation géolocalisante
 
 
 
@@ -44,7 +44,7 @@ Un site inspiré d'Airbnb, mais au lieu de proposer la location de logements, il
 - L'architecture et les focnctionnélités de l'application nous permettent acquérir de solides compétences en tant que développeurs full-stack
 
 #### Contributions
- Ce projet a été réalisé avec 
+ Ce projet a été réalisé avec
 - Jade GRIMM
 - Frédérique LAGUERRE
 - Clothilde DROUET

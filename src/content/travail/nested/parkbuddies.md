@@ -4,6 +4,7 @@ publishDate: 2023-12-14 00:00:00
 img1: /assets/parkbuddies/demo1.jpg
 img1_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 img2: /assets/parkbuddies/demo2.jpg
+img2_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
   L'appli qui transforme les parcs en terrains d'amitié
 tags:
@@ -19,10 +20,10 @@ Il s'agit d'une application à destination des parents qui ont des enfants, agé
 
 #### Fonctionnalités
 
-- gestion des profil : se faire connaissances
-- map intéractive : trouver facilement les parcs et les aires de jeux avec géolocalisation
-- salles de discussions : s'échanger dans la salle d'un parc ou discuter en privé
-- système de notation : faire des retour afin de créer un environment de sécutité et de confiance
+- Gestion des profil : se faire connaissances
+- Map intéractive : trouver facilement les parcs et les aires de jeux avec géolocalisation
+- Salles de discussions : s'échanger dans la salle d'un parc ou discuter en privé
+- Système de notation : faire des retour afin de créer un environment de sécutité et de confiance
 
 #### Technologies Utilisées
 
