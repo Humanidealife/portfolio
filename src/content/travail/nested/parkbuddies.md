@@ -16,19 +16,19 @@ tags:
 
 #### Description
 
-Il s'agit d'une application à destination des parents qui ont des enfants, agés 1 à 10 ans. Son but est de répondre à une difficulté commune pour les parents : ne pas être seuls lorsqu'ils accompagnent leurs enfants au parc. Ils peuvent y rencontrer d'autres familles et se donner rendez-vous.
+Il s'agit d'une application destinée aux parents ayant des enfants âgés de 1 à 10 ans. Son but est de répondre à une difficulté commune pour les parents : ne pas se retrouver seuls lorsqu'ils accompagnent leurs enfants au parc. Ils peuvent y rencontrer d'autres familles et se donner des rendez-vous.
 
 #### Fonctionnalités
 
-- Gestion des profil : se faire connaissances
-- Map intéractive : trouver facilement les parcs et les aires de jeux avec géolocalisation
-- Salles de discussions : s'échanger dans la salle d'un parc ou discuter en privé
-- Système de notation : faire des retour afin de créer un environment de sécutité et de confiance
+- Gestion des profils : faire connaissance
+- Carte intéractive : trouver facilement les parcs et les aires de jeux avec géolocalisation
+- Salles de discussion : échanger dans une salle publique du parc ou discuter en privé
+- Système de notation : fournir des retours afin de créer un environnement de sécurité et de confiance
 
-#### Technologies Utilisées
+#### Technologies utilisées
 
 - **Ruby on rails**
-- **Javascript**
+- **JavaScript**
 - **PostreSQL**
 - **Mapbox**
 - **Cloudinary**
@@ -36,9 +36,9 @@ Il s'agit d'une application à destination des parents qui ont des enfants, agé
 
 #### Rétrospectives
 
-- La simplicité de prise en main et l'aspect intuitif sont des premières préoccupation du disgn de cette application
-- La réalisation des salles de discussion en groupe et en privé était un défi que vous avons surmonté
-- L'architecture et l'interactivié des focnctionnélités de l'application nous permettent acquérir de solides compétences tant que su le front que sur le back
+- La simplicité de prise en main et l'intuitivité sont au cœur du design de cette application
+- La mise en place des salles de discussion en groupe et en privé a été un défi que nous avons relevé avec succès.
+- L'architecture et l'interactivité des fonctionnalités de l'application nous permettent d'acquérir de solides compétences à la fois sur le front-end et sur le back-end
 
 #### Contributions
  Ce projet a été réalisé avec
