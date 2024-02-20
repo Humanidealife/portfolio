@@ -6,22 +6,22 @@ img1_alt: Image d'un jeu snack
 img2: /assets/snack/snack2.jpg
 img2_alt: Image d'un jeu snack
 description: |
-  Jeu rétro Snack construit en Javascript
+  Jeu rétro Snack construit en JavaScript
 tags:
-  - Javascript
+  - JavaScript
   - Design
   - Développement
   - Intéractivité
 ---
 
 #### Description
-Jeu rétro contruit avec Javascript afin de maîtriser les aspect d'intéractivité de ce langage.
+Jeu rétro réalisé en JavaScript pour approfondir ma compréhension de l'interactivité de ce langage.
 
 #### Fonctionnalités
 
 - Conditions et règles du jeu :
-  - le serpent grandit quand il mange une pomme
-  - le serpent meurt quand il cogne sur un mur ou sur son propre coprs
+  - Le serpent grandit lorsqu'il mange une pomme.
+  - Le serpent meurt s'il heurte un mur ou son propre corps.
 - Paramètrages avancés :
   - affichage automatique des points gagnés
   - vitesse de départ, accélération conditionelle et automatisée
@@ -30,16 +30,16 @@ Jeu rétro contruit avec Javascript afin de maîtriser les aspect d'intéractivi
 
 #### Technologies Utilisées
 
-- **Javascript**
+- **JavaScript**
 - **HTML**
 - **VSCode**
 
 #### Rétrospectives
 
-- La réalisation du jeu m'a permis d'assimiler les concepts tels :
-  - la réassignation de variable
-  - la programmation orientée
-- La construction du jeu me permettent acquérir de riches connaissances sur l'intéractivité du Javascript.
+- La réalisation du jeu m'a permis d'assimiler les concepts tels que :
+  - la réaffectation de variables
+  - la programmation orientée objet
+- La construction du jeu m'a aidé à acquérir de solides connaissances sur l'intéractivité en JavaScript
 
 
 #### Code Source
