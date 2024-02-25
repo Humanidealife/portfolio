@@ -9,3 +9,4 @@ Un site web Portfolio réalisée avec le framework Astro.build
 - **CSS**
 - **Markdown**
 - **JavaScript**
+- **Netlify**
