@@ -21,7 +21,7 @@ Il s'agit d'une application destinée aux parents ayant des enfants âgés de 1 
 #### Fonctionnalités
 
 - Gestion des profils : faire connaissance
-- Carte intéractive : trouver facilement les parcs et les aires de jeux avec géolocalisation
+- Carte interactive : trouver facilement les parcs et les aires de jeux avec géolocalisation
 - Salles de discussion : échanger dans une salle publique du parc ou discuter en privé
 - Système de notation : fournir des retours afin de créer un environnement de sécurité et de confiance
 
