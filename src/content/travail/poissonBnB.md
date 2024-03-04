@@ -31,7 +31,7 @@ Un site inspiré d'Airbnb, mais au lieu de proposer la location de logements, il
 
 - **Ruby on rails**
 - **JavaScript**
-- **PostreSQL**
+- **PostgreSQL**
 - **Mapbox**
 - **Cloudinary**
 - **Datepicker**

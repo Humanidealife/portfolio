@@ -29,7 +29,7 @@ Il s'agit d'une application destinée aux parents ayant des enfants âgés de 1 
 
 - **Ruby on rails**
 - **JavaScript**
-- **PostreSQL**
+- **PostgreSQL**
 - **Mapbox**
 - **Cloudinary**
 - **Heroku**
