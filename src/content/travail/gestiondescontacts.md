@@ -33,6 +33,8 @@ Une application qui fait la gestion des contacts.
 
 #### Code Source
 
-<a href="/downloads/gestion_des_contacts.zip" download>Lien pour télécharger cette application</a>
-
 <a href="https://github.com/Humanidealife/Gestion_de_contacts" target="_blank">Voici le code open source sur Github</a>
+
+#### Téléchargement
+
+<a href="/downloads/gestion_des_contacts.zip" download>Télécharger cette application</a>
