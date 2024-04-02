@@ -44,10 +44,11 @@ Un site inspiré d'Airbnb, mais au lieu de proposer la location de logements, il
 - L'architecture et les fonctionnalités de l'application nous permettent d'acquérir de solides compétences en tant que développeurs full-stack
 
 #### Contributions
- Ce projet a été réalisé avec
+ Ce projet a été réalisé par
 - Jade GRIMM
 - Frédérique LAGUERRE
 - Clothilde DROUET
+- Qian WANG
 
 #### Code Source
 
