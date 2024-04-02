@@ -1,16 +1,16 @@
 ---
-title:  PoissonBnB
-publishDate: 2023-12-14 00:00:00
+title:  Gestion des contacts
+publishDate: 2024-04-02 00:00:00
 img1: /assets/poissonbnb/pbnb1.jpg
 img1_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 img2: /assets/poissonbnb/pbnb2.jpg
 description: |
   Ici retrouvez tous les meilleurs poissons du Monde !
 tags:
-  - Design
+  - C#
+  - Winforms
   - Développement
   - Full-stack
-  - Branding
 ---
 
 #### Description
@@ -29,12 +29,8 @@ Un site inspiré d'Airbnb, mais au lieu de proposer la location de logements, il
 
 #### Technologies Utilisées
 
-- **Ruby on rails**
-- **JavaScript**
-- **PostgreSQL**
-- **Mapbox**
-- **Cloudinary**
-- **Datepicker**
+- **C#**
+- **.Net**
 
 #### Rétrospectives
 
