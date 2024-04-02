@@ -41,10 +41,11 @@ Il s'agit d'une application destinée aux parents ayant des enfants âgés de 1 
 - L'architecture et l'interactivité des fonctionnalités de l'application nous permettent d'acquérir de solides compétences à la fois sur le front-end et sur le back-end
 
 #### Contributions
- Ce projet a été réalisé avec
+ Ce projet a été réalisé par
 - Jade GRIMM
 - Frédérique LAGUERRE
 - Clothilde DROUET
+- Qian WANG
 
 #### Démo
 
