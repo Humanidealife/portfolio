@@ -10,19 +10,19 @@ description: |
 tags:
   - C#
   - Winforms
-  - Json
+  - JSON
   - Développement
 ---
 
 #### Description
 
-Une application qui fait la gestion des contacts.
+Une application (Windows) qui fait la gestion des contacts.
 
 #### Fonctionnalités
 
 - Champs d'entrées d'informations
 - Bouton de fonctionnalités : ajouter, modifier et supprimer un contact.
-- Persistance des données : injection d'information dans un fichier Json.
+- Persistance des données : injection d'information dans un fichier JSON
 
 #### Technologies Utilisées
 
