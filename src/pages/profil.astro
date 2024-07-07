@@ -23,13 +23,14 @@ import Hero from '../components/Hero.astro';
 			<section>
 				<h2 class="section-title">Présentation</h2>
 				<div class="content">
-          <p>Dans le cadre de ma formation <a href="https://www.cesi.fr/wp-content/uploads/2024/07/Fiches-2024Fiche-Programme-Detaillee-2371646.pdf?v=240707" target="_blank">"Mastère Professionnel Manager en Architecture et Applications Logicielles des SI"</a> au sein de l'École d'ingéneurs CESI du Mans, je suis à la recherhce d'une alternance de 24 mois (à partir de la rentrée octobre 2024). Prêt à relever de nouveaux défis tout en continuant à apprendre et à évoluer en tant que développeur informatique, je suis convaincu que ma combinaison unique d'expériences et de compétences fait de moi un atout précieux pour toute équipe de système d'information.</p>
+          <p class="text">Dans le cadre de ma formation <a href="https://www.cesi.fr/wp-content/uploads/2024/07/Fiches-2024Fiche-Programme-Detaillee-2371646.pdf?v=240707" target="_blank">"Mastère Professionnel Manager en Architecture et Applications Logicielles des SI"</a> au sein de l'École d'ingéneurs CESI du Mans, je suis à la recherhce d'une alternance de 24 mois (pour la rentrée d'octobre 2024).</p>
+          <p class="text">Prêt à relever de nouveaux défis tout en continuant à apprendre et à évoluer en tant que développeur informatique, je suis convaincu que ma combinaison unique d'expériences et de compétences fait de moi un atout précieux pour toute équipe de système d'information.</p>
 				</div>
 			</section>
 			<section>
 				<h2 class="section-title">Formations</h2>
 				<div class="content">
-					<p>2023 <a href="https://www.lewagon.com/fr" target="_blank">Le Wagon</a> Bac+4 (RNCP niveau 6) "Concepteur - développeur d'applications web"</p>
+					<p>2023 <a href="https://www.lewagon.com/fr" target="_blank">Le Wagon</a> Bac+3 (RNCP niveau 6) "Concepteur - développeur d'applications web"</p>
           <br>
           <p>2019 <a href="https://www.univ-rennes2.fr/" target="_blank">Université Rennes 2</a> Bac+5 "Master Didactique des Langues parcours Numérique et Ingénierie"</p>
 				</div>
@@ -89,6 +90,10 @@ import Hero from '../components/Hero.astro';
 	.content :global(a:focus) {
 		text-decoration-color: currentColor;
 	}
+
+  .text {
+    text-align: justify;
+  }
 
 	@media (min-width: 50em) {
 		.about {
